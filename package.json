@@ -1,0 +1,11 @@
+{
+  "name": "leetcode-javascript",
+  "version": "1.0.0",
+  "description": "Solving leetcode problems in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xiaobuu <yaotianyu0512@gmail.com>",
+  "license": "MIT"
+}
